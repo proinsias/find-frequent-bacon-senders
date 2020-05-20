@@ -1,6 +1,7 @@
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
+httplib2>=0.18.0  # https://github.com/advisories/GHSA-gg84-qgv9-w4pq
 pip-tools
 safety
 tqdm
